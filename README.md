@@ -198,3 +198,7 @@ Only Openclaw binary is invoked.
 ## Documentation
 
 See [SKILL.md](SKILL.md) for detailed usage instructions and examples.
+
+---
+
+Built by [Ejentic AI](https://ejentic.xyz) — AI agents and automation for businesses. Abuja, Nigeria.
